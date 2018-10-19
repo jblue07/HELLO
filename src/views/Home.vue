@@ -22,7 +22,7 @@
                   <v-card-actions>
                     <v-btn flat color="blue">로그인</v-btn>
                     <v-btn flat color="blue" >
-                          로그아웃!
+                          로그아웃
                    </v-btn>
                   </v-card-actions>
                 </v-card-title>
